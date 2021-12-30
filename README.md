@@ -4,7 +4,7 @@ _Actually learning development and web design_
 
 ## Technologies I'm learning
 
-[<img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" title="nodejs" width="150"/>](https://nodejs.org/es/)
-[<img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" title="nodejs" width="150"/>](https://nodejs.org/es/)
-[<img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" title="nodejs" width="150"/>](https://nodejs.org/es/)
-[<img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" title="nodejs" width="150"/>](https://nodejs.org/es/)
+[<img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" title="nodejs" width="5em"/>](https://nodejs.org/es/)
+[<img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" title="nodejs" width="5em"/>](https://nodejs.org/es/)
+[<img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" title="nodejs" width="5em"/>](https://nodejs.org/es/)
+[<img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" title="nodejs" width="5em"/>](https://nodejs.org/es/)
