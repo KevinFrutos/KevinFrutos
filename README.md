@@ -1,8 +1,4 @@
-Normal Text
-<span align="center">
-    <h1>KEVIN VALENTÍN FRUTOS RIVERA</h1>
-</span>
-Normal Text
+<h1 align="center">KEVIN VALENTÍN FRUTOS RIVERA</h1>
 
 <!-- # KEVIN VALENTÍN FRUTOS RIVERA
 
