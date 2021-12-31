@@ -1,10 +1,7 @@
 <h1 align="center">KEVIN VALENTÍN FRUTOS RIVERA</h1>
+<p align="center">Actually learning development and web design</p>
 
-<!-- # KEVIN VALENTÍN FRUTOS RIVERA
-
-_Actually learning development and web design_
-
-## Technologies I'm learning -->
+<h2 align="center">Technologies I'm learning</h2>
 
 [<img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS" title="NodeJS" width="10%"/>](https://nodejs.org/es/)&nbsp;&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" title="ExpressJS" width="10%"/>](http://expressjs.com/)&nbsp;&nbsp;
