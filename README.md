@@ -16,6 +16,8 @@ _Actually learning development and web design_
 [<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" title="Visual Studio Code" width="10%"/>](https://code.visualstudio.com/)&nbsp;&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" title="npm" width="10%"/>](https://www.npmjs.com/)&nbsp;&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" title="WordPress" width="10%"/>](https://wordpress.com/es/)&nbsp;&nbsp;
-[<img src="https://www.prestashop.com/sites/all/themes/prestashop/images/logos/logo-fo-prestashop.svg" alt="PrestaShop" title="PrestaShop" width="10%"/>](https://www.prestashop.com/es)&nbsp;&nbsp;
+[<img src="https://cdn.worldvectorlogo.com/logos/prestashop.svg" alt="PrestaShop" title="PrestaShop" width="10%"/>](https://www.prestashop.com/es)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="10%"/>](https://www.java.com/es/)&nbsp;&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" title="Docker" width="10%"/>](https://www.docker.com/)&nbsp;&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes" width="10%"/>](https://kubernetes.io/es/)&nbsp;&nbsp;
 <!--[<img src="img" alt="alt" title="title" width="10%"/>](link)&nbsp;&nbsp;-->
