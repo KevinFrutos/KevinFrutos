@@ -1,4 +1,4 @@
-<h1 align="center"><>KEVIN VALENTÍN FRUTOS RIVERA</></h1>
+<h1 align="center">&lt;&gt;KEVIN VALENTÍN FRUTOS RIVERA&lt;&#8725;&gt;</h1>
 <p align="center">Actually learning development and web design.</p>
 
 <h2 align="center">Technologies I'm learning 💻</h2>
